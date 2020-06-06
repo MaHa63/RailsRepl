@@ -120,7 +120,7 @@ GEM
       railties (>= 5.0)
     websocket-driver (0.7.1)
       websocket-extensions (>= 0.1.0)
-    websocket-extensions (0.1.4)
+    websocket-extensions (0.1.5)
 
 PLATFORMS
   ruby
@@ -129,7 +129,7 @@ DEPENDENCIES
   bootsnap (>= 1.1.0)
   byebug
   jbuilder (~> 2.5)
-  rails (~> 5.2.3)
+  rails (~> 5.2.0)
   sqlite3
   tzinfo-data
   web-console (>= 3.3.0)
